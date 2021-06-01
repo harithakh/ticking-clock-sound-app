@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ash_and_green_light">#9AA899</color>
+    <color name="ash_and_green_dark">#667065</color>
+    <color name="ash_and_green_dark_ultra">#444A43</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="bg_color">#F6F1C8</color>
+</resources>

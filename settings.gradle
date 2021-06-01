@@ -1,0 +1,2 @@
+rootProject.name = "Ticking Clock Sound"
+include ':app'

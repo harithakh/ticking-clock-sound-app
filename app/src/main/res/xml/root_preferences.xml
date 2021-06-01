@@ -1,0 +1,24 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+        <ListPreference
+            app:defaultValue="1"
+            app:entries="@array/sound_clip_names"
+            app:entryValues="@array/sound_clip_names_numbers"
+            app:key="sound_clips_preferences"
+            app:title="Change clock sound"
+            app:useSimpleSummaryProvider="true"
+            app:icon="@drawable/ic_baseline_audiotrack_24"
+            />
+
+        <ListPreference
+            app:key="ticking_durations_preferences"
+            app:defaultValue="2"
+            app:entries="@array/ticking_durations"
+            app:entryValues="@array/ticking_duration_values"
+            app:title="Ticking duration"
+            app:useSimpleSummaryProvider="true"
+            app:icon="@drawable/ic_baseline_access_time_24"
+            />
+
+
+</PreferenceScreen>

@@ -1,0 +1,55 @@
+<resources>
+
+    <string-array name="sound_clip_names">
+        <item>Clock ticking 01</item>
+        <item>Clock ticking 02</item>
+        <item>Watch tick</item>
+        <item>Large clock ticking</item>
+        <item>Grandfather clock ticking</item>
+        <item>Mantel clock ticking</item>
+        <item>Pendulum clock ticking</item>
+        <item>Big old clock ticking</item>
+        <item>Clock ticking 03</item>
+
+    </string-array>
+
+    <string-array name="sound_clip_names_numbers">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+
+    <string-array name="ticking_durations">
+
+        <item>2 minutes</item>
+        <item>5 minutes</item>
+        <item>10 minutes</item>
+        <item>20 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>2 hours</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>12 hours</item>
+    </string-array>
+    <string-array name="ticking_duration_values">
+        <item>2</item>
+        <item>5</item>
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>60</item>
+        <item>120</item>
+        <item>180</item>
+        <item>360</item>
+        <item>720</item>
+    </string-array>
+
+
+</resources>

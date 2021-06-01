@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Ticking Clock Sound Pro</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    
+    <!-- activity_main Strings-->
+    <string name="current_time">Current time :</string>
+
+    <string name="start_button_string">START</string>
+    <string name="stop_button_string">STOP</string>
+
+    <string name="volume_string">VOLUME</string>
+    <string name="volume_low_string">LOW</string>
+    <string name="volume_high_string">HIGH</string>
+
+    <string name="run_in_bg_string">RUN IN THE BACKGROUND</string>
+
+    <!-- three dot menu Strings-->
+    <string name="settings_button_string">Settings</string>
+    <string name="rate_us_button_string">Rate Us</string>
+    <string name="about_button_string">About</string>
+    <!-- Preference Titles -->
+
+    <!--about dialog Strings-->
+    <string name="dialog_title">Ticking Clock Sound Pro</string>
+    <string name="dialog_description">App version 1.0.0
+        \nThis clock sound playing application is developed by Haritha Hulangamuwa. \n2021. </string>
+    <string name="logo_icon_content_description">App logo</string>
+ 
+ </resources>
